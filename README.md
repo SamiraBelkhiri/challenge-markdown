@@ -45,4 +45,4 @@
   #### tldr
   Always depend on yourself
 
-  <<previous || Samira Belkhiri || next >>
+  <<[previous](https://github.com/Sali-Almurshidi/challenge-markdown) || Samira Belkhiri || [next]() >>
